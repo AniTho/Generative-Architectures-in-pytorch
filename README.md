@@ -3,4 +3,4 @@ This repo consists of all the projects concerning generative models, done by me 
 
 ## Progress Chart:
 
-1. Implemented Autoencoders (Reference paper: https://www.science.org/doi/10.1126/science.1127647)
+1. Implemented Autoencoders (Reference paper: https://www.science.org/doi/10.1126/science.1127647). Also studied mathematical aspect of VAE and derived KL divergence for two normal distribution.
